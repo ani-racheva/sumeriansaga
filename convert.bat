@@ -14,3 +14,8 @@ pandoc -o html\chapter12.html txt\chapter12.txt
 pandoc -o html\chapter13.html txt\chapter13.txt
 pandoc -o html\chapter14.html txt\chapter14.txt
 pandoc -o html\chapter15.html txt\chapter15.txt
+pandoc -o html\chapter16.html txt\chapter16.txt
+pandoc -o html\chapter17.html txt\chapter17.txt
+pandoc -o html\chapter18.html txt\chapter18.txt
+pandoc -o html\chapter19.html txt\chapter19.txt
+pandoc -o html\chapter20.html txt\chapter20.txt
